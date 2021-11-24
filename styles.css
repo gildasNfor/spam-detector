@@ -1,0 +1,39 @@
+html {
+	height: 100%;
+}
+body {
+	display: grid;
+	place-content: center;
+	height: 100%;
+	background-color: #666;
+}
+
+#wrapper {
+	border: 1px solid black;
+	text-align: center;
+	width: 400px;
+	padding: 50px;
+}
+
+form {
+	margin-top: 50px;
+	text-align: center;
+	padding: 20px 10px;
+	width: 100%;
+	border: 1px solid black;
+}
+
+#email {
+	margin-bottom: 20px;
+}
+
+input {
+	padding: 5px 10px;
+	border-radius: 4px;
+}
+
+imputx
+
+input[type="submit"] {
+	background-color: pink;
+}
